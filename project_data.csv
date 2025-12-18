@@ -1,0 +1,6 @@
+Task_Name,Planned_Value,Actual_Cost,Earned_Value,Status
+Cloud Migration,15000,16000,15000,Completed
+Security Audit,5000,4500,5000,Completed
+API Integration,10000,8000,6000,In Progress
+Database Optimization,8000,7500,8000,Completed
+Frontend Revamp,12000,13000,10000,In Progress
