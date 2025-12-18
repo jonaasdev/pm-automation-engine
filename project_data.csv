@@ -1,6 +1,16 @@
-Task_Name,Planned_Value,Actual_Cost,Earned_Value,Status
-Cloud Migration,15000,16000,15000,Completed
-Security Audit,5000,4500,5000,Completed
-API Integration,10000,8000,6000,In Progress
-Database Optimization,8000,7500,8000,Completed
-Frontend Revamp,12000,13000,10000,In Progress
+Task_Name,Planned_Value,Actual_Cost,Earned_Value,Status,Department,Resource_Name,Risk_Level,Estimated_Completion_Date
+Cloud Migration Phase 1,15000,16000,15000,Completed,Engineering,Sarah Chen,2,2024-11-15
+Security Audit Q4,5000,4500,5000,Completed,QA,Marcus Rodriguez,1,2024-11-20
+API Integration Layer,10000,8000,6000,In Progress,Engineering,Sarah Chen,3,2025-01-10
+Database Optimization,8000,7500,8000,Completed,DevOps,James Kim,2,2024-12-01
+Frontend Revamp,12000,13000,10000,In Progress,Design,Emily Watson,4,2025-01-15
+Microservices Architecture,25000,22000,18000,In Progress,Engineering,David Park,5,2025-02-28
+CI/CD Pipeline Setup,6000,5500,6000,Completed,DevOps,James Kim,2,2024-12-10
+User Authentication Module,8000,9000,7000,In Progress,Engineering,Lisa Thompson,3,2025-01-20
+Performance Testing Suite,7000,6000,5000,In Progress,QA,Marcus Rodriguez,3,2025-01-25
+Mobile Responsive Design,9000,8500,9000,Completed,Design,Emily Watson,2,2024-12-15
+Load Balancer Configuration,4000,4200,4000,Completed,DevOps,James Kim,1,2024-12-05
+GraphQL API Development,11000,10000,8000,In Progress,Engineering,David Park,4,2025-02-10
+Accessibility Compliance,5000,4000,3000,In Progress,Design,Emily Watson,2,2025-01-30
+Monitoring Dashboard,6000,7000,5000,In Progress,DevOps,Alex Martinez,3,2025-02-05
+Automated Backup System,3000,2800,3000,Completed,DevOps,Alex Martinez,1,2024-11-25

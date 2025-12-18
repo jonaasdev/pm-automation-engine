@@ -1,0 +1,100 @@
+{
+    "milestones": [
+        {
+            "id": 1,
+            "name": "Architecture Sign-off",
+            "description": "Complete system architecture review and approval",
+            "owner": "Younes Boutelidjane",
+            "target_date": "2024-10-15",
+            "completion_date": "2024-10-12",
+            "status": "Completed",
+            "dependencies": []
+        },
+        {
+            "id": 2,
+            "name": "Development Environment Setup",
+            "description": "All development and staging environments operational",
+            "owner": "James Kim",
+            "target_date": "2024-11-01",
+            "completion_date": "2024-10-30",
+            "status": "Completed",
+            "dependencies": [
+                1
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Core API Development Complete",
+            "description": "All core API endpoints developed and unit tested",
+            "owner": "Sarah Chen",
+            "target_date": "2024-12-20",
+            "completion_date": null,
+            "status": "In Progress",
+            "dependencies": [
+                2
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Security Penetration Testing",
+            "description": "Complete security audit and penetration testing",
+            "owner": "Marcus Rodriguez",
+            "target_date": "2025-01-15",
+            "completion_date": null,
+            "status": "Not Started",
+            "dependencies": [
+                3
+            ]
+        },
+        {
+            "id": 5,
+            "name": "UAT Completion",
+            "description": "User Acceptance Testing completed with sign-off",
+            "owner": "Younes Boutelidjane",
+            "target_date": "2025-02-10",
+            "completion_date": null,
+            "status": "Not Started",
+            "dependencies": [
+                3,
+                4
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Performance Benchmarking",
+            "description": "System meets all performance SLAs under load",
+            "owner": "Marcus Rodriguez",
+            "target_date": "2025-02-20",
+            "completion_date": null,
+            "status": "Not Started",
+            "dependencies": [
+                5
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Production Deployment",
+            "description": "Go-live to production environment",
+            "owner": "Younes Boutelidjane",
+            "target_date": "2025-03-01",
+            "completion_date": null,
+            "status": "Not Started",
+            "dependencies": [
+                5,
+                6
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Post-Launch Monitoring",
+            "description": "30-day post-launch stability and monitoring period",
+            "owner": "Alex Martinez",
+            "target_date": "2025-03-31",
+            "completion_date": null,
+            "status": "Not Started",
+            "dependencies": [
+                7
+            ]
+        }
+    ]
+}
