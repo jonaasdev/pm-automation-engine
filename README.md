@@ -8,7 +8,7 @@
 
 In today's fast-paced software development landscape, **budget overruns and schedule delays** are among the top risks facing technical projects. This Technical PM Command Center leverages **Earned Value Management (EVM)** principles to provide real-time visibility into project health, enabling proactive decision-making before issues escalate.
 
-**How Younes Boutelidjane Uses This Tool to Prevent Budget Overruns:**
+**How I use this tool to prevent budget overruns:**
 
 1. **Early Warning System**: By monitoring CPI (Cost Performance Index) and SPI (Schedule Performance Index) in real-time, the dashboard flags cost and schedule variances before they become critical.
 
@@ -145,10 +145,10 @@ flowchart LR
 - **SPI** = $40,000 ÷ $50,000 = **0.80** ⚠️ (Behind schedule - only 80% of planned work completed)
 - **EAC** = $100,000 ÷ 0.73 = **$137,000** ⚠️ (Project will likely cost $37,000 more than budgeted)
 
-**Action**: With this data, Younes can immediately:
+**Action**: With this data, I can immediately:
 1. Investigate why costs are high (inefficiencies, scope creep)
 2. Reallocate resources to catch up on schedule
-3. Inform stakeholders early about potential budget needs
+3. Inform my stakeholders early about potential budget needs
 4. Implement corrective actions before it's too late
 
 ---
@@ -300,17 +300,17 @@ This project demonstrates:
 
 ---
 
-## About the Author
+## About Me
 
 **Younes Boutelidjane** - Project Manager
 
-This Technical PM Command Center showcases the intersection of technical expertise and project management acumen, demonstrating the ability to build tools that drive project success through data-driven insights and proactive risk management.
+This Technical PM Command Center showcases my intersection of technical expertise and project management acumen. It demonstrates my ability to build tools that drive project success through data-driven insights and proactive risk management.
 
 ---
 
 ## License
 
-This project is part of Younes Boutelidjane's professional portfolio.
+This project is part of my professional portfolio.
 
 ---
 

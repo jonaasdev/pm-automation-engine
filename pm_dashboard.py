@@ -2,7 +2,7 @@
 Technical PM Command Center Dashboard
 Project Manager: Younes Boutelidjane
 
-A comprehensive project management automation tool that provides:
+A tool I developed to automate my project management workflows, providing:
 - Earned Value Management (EVM) metrics calculation
 - Predictive analytics with Estimate at Completion (EAC)
 - Resource allocation analysis
@@ -116,7 +116,7 @@ def generate_project_health_scorecard(df):
         df (pd.DataFrame): Project data with all metrics
     """
     print("\n" + "="*80)
-    print("PROJECT PERFORMANCE REPORT | LEAD: YOUNES BOUTELIDJANE")
+    print("MY PERFORMANCE REPORT | LEAD: YOUNES BOUTELIDJANE")
     print("="*80)
     
     # Overall metrics
@@ -310,7 +310,7 @@ def main():
     Main execution function for the PM Command Center Dashboard.
     """
     print("\n" + "🚀 " * 20)
-    print("TECHNICAL PM COMMAND CENTER")
+    print("MY TECHNICAL PM COMMAND CENTER")
     print("Project Manager: Younes Boutelidjane")
     print("🚀 " * 20 + "\n")
     
